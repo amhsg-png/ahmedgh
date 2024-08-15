@@ -1,0 +1,51 @@
+[PROJECT]
+
+[RP:UNTITLED_2]
+1=
+
+[RP:UNTITLED_1]
+1=
+
+[RP:DRAFT]
+1=
+
+[RP:GAMS LOOP]
+1=
+
+[RP:TRIAL - WITH Z1 Z2]
+1=
+
+[RP:TRIAL WITH ONLY Z]
+1=
+
+[RP:ELSIVEIR - COPY]
+1=
+
+[RP:GAMS 2024 - LP]
+1=
+
+[RP:PARAMETERS]
+1=
+
+[RP:MUSAB 600]
+1=
+
+[MRUFILES]
+1=C:\Users\user2\Desktop\Gams model-Revised-Ghaithan\Musab 600.lst
+2=C:\Users\user2\Desktop\Gams model-Revised-Ghaithan\Musab 600.gms
+3=C:\Users\user2\Desktop\Revived -Use this_Grid Contribution Factor-No Battery _GAMS 2024- 1st Revision\GAMS 2024 - LP.gms
+4=C:\Users\user2\Desktop\Grid Contribution Factor-No Battery _GAMS 2024- 1st Revision\GAMS 2024 - LP.gms
+5=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Hydrogen Station Wind+ PV (Energy)\1st Round\Grid Contribution Factor-No Battery _GAMS 2024- 1st Revision\GAMS 2024 - LP.gms
+6=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Hydrogen Station Wind+ PV (Energy)\1st Round\Service Level-No Battery _GAMS 2024- 1st Revision\GAMS 2024 - LP.gms
+7=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Musab _ CSP Hydrogen station (int Journal of Hydrogen Energy)\Int J Hydrogen production\Round 1-IJH\Gams model-Revised-Ghaithan\Untitled_1.gms
+
+[OPENWINDOW_1]
+FILE0=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Musab _ CSP Hydrogen station (int Journal of Hydrogen Energy)\Int J Hydrogen production\Round 1-IJH\Revised-Use this_Gams model-Revised-Ghaithan\Musab 600.gms
+FILE1=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Musab _ CSP Hydrogen station (int Journal of Hydrogen Energy)\Int J Hydrogen production\Round 1-IJH\Revised-Use this_Gams model-Revised-Ghaithan\Musab 600.lst
+FILE2=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Musab _ CSP Hydrogen station (int Journal of Hydrogen Energy)\Int J Hydrogen production\Round 1-IJH\Revised-Use this_Gams model-Revised-Ghaithan\Parameters.gms
+FILE3=G:\My Drive\Research Work\Ghaithan\Ghaithan_________Musab _ CSP Hydrogen station (int Journal of Hydrogen Energy)\Int J Hydrogen production\Round 1-IJH\Revised-Use this_Gams model-Revised-Ghaithan\Musab 600.lst
+MAXIM=0
+TOP=0
+LEFT=0
+HEIGHT=863
+WIDTH=1298
